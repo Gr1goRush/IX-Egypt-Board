@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IsisNephthys Animator Override Controller
+  m_Controller: {fileID: 9100000, guid: b7c963658b0dca048a23f6d9a7dc20f7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1082789e7ee7fc1479ef9280c5e5c894, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 54a300a32874b9542b0c499d042abcb2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d94adf24bc77e6648bf50d2768a8e457, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eab1ffb2222942d4d96c1c275776e577, type: 2}

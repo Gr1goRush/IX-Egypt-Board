@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ThreeTruths Animator Override Controller
+  m_Controller: {fileID: 9100000, guid: b7c963658b0dca048a23f6d9a7dc20f7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1082789e7ee7fc1479ef9280c5e5c894, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b35545e88fd9963468a59d0e22938c36, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d94adf24bc77e6648bf50d2768a8e457, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 89e0974476c37384fb116f441614587b, type: 2}
